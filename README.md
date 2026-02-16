@@ -14,7 +14,7 @@
 
 ## 下载安装
 
-前往 [Releases](https://github.com/your-username/claude-skill-viewer/releases) 页面下载对应平台的安装包：
+前往 [Releases](https://github.com/X-D-O/claude-skill-viewer/releases) 页面下载对应平台的安装包：
 
 | 平台 | 文件 | 说明 |
 |------|------|------|
